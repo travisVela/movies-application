@@ -8,3 +8,11 @@ html, body {
     transform: translateY(-100%);
     text-align: center;
 }
+
+.hide {
+    display: none;
+}
+
+#ratingRow, #title {
+    width: 50%
+}
